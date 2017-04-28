@@ -1,7 +1,7 @@
 # MachineLearning
 - 入门课程《斯坦福大学公开课 ：机器学习课程》http://open.163.com/special/opencourse/machinelearning.html
 
-##资料
+#资料
 https://www.quora.com/Data/Where-can-I-find-large-datasets-open-to-the-public
 
 http://mlcomp.org/
