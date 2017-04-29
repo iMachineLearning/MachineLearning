@@ -6,13 +6,12 @@
 ## 资料
 - Where can I find large datasets open to the public? https://www.quora.com/Data/Where-can-I-find-large-datasets-open-to-the-public
 
-http://mlcomp.org/
+- mlcomp http://mlcomp.org/
 
+- 知乎分享 
+ - https://www.zhihu.com/question/19969760 
+ - http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html
 
-- 知乎分享
-https://www.zhihu.com/question/19969760
-http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html
+## 书籍
 
-##书籍
-
-- 《集体智慧编程》https://book.douban.com/subject/3288908/
+- 《集体智慧编程》(难度中)https://book.douban.com/subject/3288908/
