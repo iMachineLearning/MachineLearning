@@ -9,8 +9,8 @@
 - mlcomp http://mlcomp.org/
 
 - 知乎分享 
- - https://www.zhihu.com/question/19969760 
- - http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html
+  - https://www.zhihu.com/question/19969760 
+  - http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html
 
 ## 书籍
 
