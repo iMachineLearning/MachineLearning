@@ -8,6 +8,13 @@
 - mlcomp http://mlcomp.org/
 - 数据分析和挖掘有哪些公开的数据来源？ https://www.zhihu.com/question/19969760 
 - Picking the right Machine Learning Algorithm - The visual way http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html
+- 机器学习的最佳入门学习资源 http://blog.jobbole.com/56256/
+- 机器学习最完整入门书单 http://www.roboticschina.com/news/article/201701250950
 
 ## 书籍
-- 《集体智慧编程》(难度中)https://book.douban.com/subject/3288908/
+### 入门书籍
+- 《集体智慧编程》https://book.douban.com/subject/3288908/
+- 《机器学习实战》https://book.douban.com/subject/24703171/
+- 《Building Machine Learning Systems with Python》https://book.douban.com/subject/24669811/
+- 《数据挖掘导论》https://book.douban.com/subject/5377669/
+- 《Machine Learning for Hackers》https://book.douban.com/subject/7906768/
