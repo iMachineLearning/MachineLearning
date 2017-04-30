@@ -14,7 +14,10 @@
 ## 书籍
 ### 入门书籍
 - 《集体智慧编程》https://book.douban.com/subject/3288908/
-- 《机器学习实战》https://book.douban.com/subject/24703171/
+- 《机器学习实战》（我买了这本书 先看一下）https://book.douban.com/subject/24703171/
 - 《Building Machine Learning Systems with Python》https://book.douban.com/subject/24669811/
 - 《数据挖掘导论》https://book.douban.com/subject/5377669/
 - 《Machine Learning for Hackers》https://book.douban.com/subject/7906768/
+
+## 数学
+- 麻省理工公开课：线性代数 http://open.163.com/special/opencourse/daishu.html
