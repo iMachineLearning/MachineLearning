@@ -2,7 +2,7 @@
 
 ## 课程
 - 入门课程《斯坦福大学公开课 ：机器学习课程》http://open.163.com/special/opencourse/machinelearning.html
-- 台湾大学《机器学习基石》（难度：高）https://www.youtube.com/watch?v=nQvpFSMPhr0&index=1&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf
+- 台湾大学《机器学习基石》https://www.youtube.com/watch?v=nQvpFSMPhr0&index=1&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf
 
 ## 资料
 - Where can I find large datasets open to the public? https://www.quora.com/Data/Where-can-I-find-large-datasets-open-to-the-public
