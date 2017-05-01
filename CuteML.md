@@ -11,6 +11,7 @@
 - Picking the right Machine Learning Algorithm - The visual way http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html
 - 机器学习的最佳入门学习资源 http://blog.jobbole.com/56256/
 - 机器学习最完整入门书单 http://www.roboticschina.com/news/article/201701250950
+- 适合程序员进阶学习的50个最佳网站 https://zhuanlan.zhihu.com/p/26616399
 
 ## 书籍
 ### 入门书籍
