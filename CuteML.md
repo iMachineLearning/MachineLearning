@@ -14,7 +14,6 @@
 - 适合程序员进阶学习的50个最佳网站 https://zhuanlan.zhihu.com/p/26616399
 
 ## 书籍
-### 入门书籍
 - 《统计学习方法》https://book.douban.com/subject/10590856/
 - 《集体智慧编程》https://book.douban.com/subject/3288908/
 - 《机器学习实战》（我买了这本书 先看一下）https://book.douban.com/subject/24703171/
