@@ -23,3 +23,6 @@
 
 ## 数学
 - 麻省理工公开课：线性代数 http://open.163.com/special/opencourse/daishu.html
+
+## 编程
+- Learn Python the Hard Way https://learnpythonthehardway.org/book/
