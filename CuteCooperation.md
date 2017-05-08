@@ -14,6 +14,7 @@
 - 适合程序员进阶学习的50个最佳网站 https://zhuanlan.zhihu.com/p/26616399
 - 我的数据科学学习之路 http://community.bittiger.io/topic/275/我的数据科学学习之路
 - 自上而下的学习路线:软件工程师的机器学习(for dream ...) https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md#如何使用它
+- 斯坦福大学 Deeplearning tutorial http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 ## 书籍
 - 《统计学习方法》https://book.douban.com/subject/10590856/
