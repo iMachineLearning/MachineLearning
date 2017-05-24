@@ -8,6 +8,7 @@
 
 #include <iostream>
 
+／／希尔排序
 void shell_sort(int a[], int len){
     
     for (int step = len/2; step > 0; step = step / 2) {
@@ -29,7 +30,7 @@ void shell_sort(int a[], int len){
 }
 
 int numberArray[] = {1, 4, 6, 5, 8, 2};
-
+／／快速排序
 void quickSort(int left, int right){
     int i, j, pivot;
    
